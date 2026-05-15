@@ -13,7 +13,7 @@ export default function Hero() {
         backgroundAttachment: 'fixed' 
       }}
     >
-      <div className="absolute inset-0 bg-gradient-to-b from-black/40 via-transparent to-slate-50 z-0"></div>
+      <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-transparent to-slate-50 z-0"></div>
 
       <div className="relative z-10 max-w-4xl mx-auto px-6 w-full py-20">
         
