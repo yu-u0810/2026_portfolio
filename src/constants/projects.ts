@@ -33,6 +33,7 @@ export const PROJECTS: Project[] = [
     title: "School Festival App(Firebaseサーバー)",
     description: "学内イベントアプリ Firebaseでサーバーを管理",
     tech: ["Next.js", "firebase"],
-    githubUrl: "https://github.com/yu-u0810/Churaboshi_App_FullStack",
+    githubUrl: "https://github.com/yu-u0810/Churaboshi",
+    demoUrl: "https://churaboshi.vercel.app/",
   },
 ];

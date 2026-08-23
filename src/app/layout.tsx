@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Yu Ishimine | Portfolio", // タイトルを自分らしく変更
+  title: "YU ISHIMINE | Portfolio", // タイトルを自分らしく変更
   description: "伊志嶺 勇/ポートフォリオサイト。Next.js, Go, Pythonを用いた開発実績を紹介しています。",
 };
 
